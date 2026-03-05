@@ -94,6 +94,6 @@ int main()
     display();
 
     system("pause");
-    return;
+    return 0;
 
 }
